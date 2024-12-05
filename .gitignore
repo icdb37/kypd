@@ -23,3 +23,22 @@ go.work.sum
 
 # env file
 .env
+
+kypd
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+.DS_Store
+Thumbs.db
+.run/
+bin
+vendor
+tmp
+gl-code-quality-report.json
+.scannerwork
+tmp/
